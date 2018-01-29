@@ -9,4 +9,4 @@ Activity 3: https://github.com/matthewcasias/Lab2Fork-103
 
 Activity 4: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/9
 
-Activity 5: When the .gitignore file was added to my hello-world repo, if a file type was included in .gitignore it would not recognize having to commit/push that file to the repo.
+Activity 5: When the .gitignore file was added to my hello-world repo, if a file type was included in .gitignore it would not recognize having to commit/push that file type to the repo.
