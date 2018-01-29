@@ -8,3 +8,5 @@ Activity 3: https://github.com/matthewcasias/Lab2Fork-103
             In the pull request that I sent, I added an input check in pig.py to make sure that a vild input was being given.
 
 Activity 4: https://github.com/UVA-CS3240-S18/IveGotIssues/issues/9
+
+Activity 5: When the .gitignore file was added to my hello-world repo, if a file type was included in .gitignore it would not recognize having to commit/push that file to the repo.
